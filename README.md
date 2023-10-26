@@ -1,5 +1,5 @@
 ## 👋 Hi there 
-I'm Otávio Gonçalves, a passionate software developer and tech enthusiast. I currently work as a trainee Software Developer at SpraySolutions.
+I'm Otávio Gonçalves, a passionate software developer and tech enthusiast.
 
 ## 🚀 Expertise
 
