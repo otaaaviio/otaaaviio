@@ -39,7 +39,5 @@ My passion for technology and continuous learning keeps me updated with the late
 [Instagram](https://www.instagram.com/otaaviio_/)
 [LinkedIn](https://www.linkedin.com/in/otaaaviio/)
 ## 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaaaviio&icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaaaviio&layout=compact&theme=tokyonight)
 
