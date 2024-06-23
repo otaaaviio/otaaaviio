@@ -1,23 +1,18 @@
-## 👋 Hi there 
+## 👋 Hi, there!
 
-I’m Otávio Gonçalves, a dedicated software developer and technology enthusiast. I have a collection of portfolios on GitHub which you are welcome to explore.
-In addition to my academic pursuits and internship in Full Stack Developer, I continually strive to enhance my skills and stay updated with the latest industry trends. My passion for technology drives me to create innovative solutions that can make a difference.
+I’m Otávio Gonçalves, a software developer for [Jetimob](https://www.jetimob.com/). I'm currently persuing a degree in Computer Science at Federal University of Santa Maria (UFSM), Rio Grande do Sul, Brasil. Here, you can explore my public repositories and my skills. Feel free to open issues, pull requests or just contact me. 😸
 
 ## 🚀 Expertise
 
-With a strong foundation in **Computer Science**, I have honed my skills in a wide array of technologies. My expertise includes:
+With a strong foundation in **Computer Science** and hard working in this area, I have honed my skills in a wide array of technologies. My expertise includes:
 
-- **Backend Development**: Proficient in **PHP** and **Laravel**, I have developed robust and scalable backend solutions. My experience with **Node.js**, **Express** and **SpringBoot** has further diversified my backend development skills.
+- **Backend Development**: Proficient in **PHP**, **Laravel** and **PostgreSQL**. With these, I can construct robusts API's apllying feature and unit tests to mantain a consistency and following SOLID principles and Clean Code to ensure better maintenence. Additionally, I am studying others frameworks such as **NodeJS/TS**, **Spring Boot/JAVA**, **MongoDB**. 
 
-- **Frontend Development**: I have a solid understanding of **JavaScript**, **React**, and **Ionic**, which allows me to create interactive and user-friendly interfaces. My knowledge of **HTML** and **CSS/SCSS** aids in crafting visually appealing designs.
+- **Frontend Development**: I have expirience with **React/JS**, **VueJS/TS**, **Flutter/Dart**, **Blade/PHP**, spanning a wide large of frameworks and frontend libraries.
 
-- **Database Management**: I have worked with both SQL and NoSQL databases, including **PostgreSQL** and **MongoDB**, ensuring efficient data storage and retrieval.
+- **Database Management**: I have worked with both SQL and NoSQL databases, including **PostgreSQL** and **MongoDB**, working with ORM's and pure SQL queries.
 
-- **TypeScript**: My experience with **TypeScript** has enabled me to write safer and more reliable code by incorporating static types.
-
-- **Mobile Application Development**: Proficient in **Dart** and **Flutter**, I have the ability to create cross-platform mobile applications that provide a native-like experience.
-
-- **Full Stack Development**: My experience spans across the stack, from frontend to backend, providing me with a holistic view of project development. This allows me to make informed decisions that can positively impact different areas of a project.
+- **Others**: Proeficient in **Docker** to ensure a streamlined development and deployment process. Experienced in container orchestration tools like Kubernetes for managing scalable applications. Familiar with CI/CD pipelines using tools such as Jenkins for automated testing and deployment in GitHub.
 
 My passion for technology and continuous learning keeps me updated with the latest industry trends, enabling me to adapt and quickly pick up new technologies. I am always eager to take on new challenges and solve complex problems to create innovative solutions.
 
@@ -40,4 +35,3 @@ My passion for technology and continuous learning keeps me updated with the late
 [LinkedIn](https://www.linkedin.com/in/otaaaviio/)
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaaaviio&layout=compact&theme=tokyonight)
-
