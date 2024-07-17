@@ -1,6 +1,6 @@
 ## 👋 Hi, there!
 
-I’m Otávio Gonçalves, a software developer for [Jetimob](https://www.jetimob.com/). I'm currently persuing a degree in Computer Science at Federal University of Santa Maria (UFSM), Rio Grande do Sul, Brasil. Here, you can explore my public repositories and my skills. Feel free to open issues, pull requests or just contact me. 😸
+I’m Otávio Gonçalves, a full-stack software developer. I'm currently persuing a degree in Computer Science at Federal University of Santa Maria (UFSM), Rio Grande do Sul, Brasil. Here, you can explore my public repositories and my skills. Feel free to open issues, pull requests or just contact me. 😸
 
 ## 🚀 Expertise
 
